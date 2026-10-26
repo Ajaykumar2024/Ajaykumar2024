@@ -1,4 +1,13 @@
+## 💫 About Me
 
+Hi, I'm Ajay Kumar, an MCA student passionate about software development and AI.
+
+- 🎓 Currently pursuing MCA.
+- 💻 Interested in Web Development and Software Engineering.
+- ⚛️ Learning and building projects with React.js, JavaScript, and Java.
+- 🤖 Exploring AI-powered applications.
+- 🚀 Continuously learning and improving my coding skills.
+- 🔗 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL).
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kumar-67ba3a294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:askajay025@gmail.com) 
 
